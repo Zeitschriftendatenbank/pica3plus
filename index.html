@@ -2,58 +2,63 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.7/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="https://datatables.net/release-datatables/extensions/ColReorder/css/dataTables.colReorder.css">
     <meta charset="utf-8">
     <title>Konkordanz PICA+/PICA3 für die Zeitschriftendatenbank (ZDB)</title>
 </head>
 <body>
     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="http://datatables.net/release-datatables/extensions/ColReorder/js/dataTables.colReorder.js"></script>
     <script type="text/javascript" class="init">
-        $(document).ready(function() {
-    $('#example').dataTable( {
-        "lengthMenu": [[-1,10, 25, 50], ["All",10, 25, 50]],
-        "order": [[ 1, "asc" ]]
-    } );
+    $(document).ready(function() {
+        var table = $('#example').dataTable( {
+            "lengthMenu": [[-1,10, 25, 50], ["All",10, 25, 50]],
+            "order": [[ 1, "asc" ]],
+            "paging": false,
+            "dom": 'Rlfrtip'
         } );
+    } );
     </script>
     <h1>Konkordanz PICA+/PICA3</h1>
+    <div class="info"></div>
 <table id="example" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <td>
+            <th>
                     PICA+
-            </td>
-            <td>
+            </th>
+            <th>
                     PICA3
-            </td>
-            <td>
+            </th>
+            <th>
                     wiederholbar
-            </td>
-            <td>
-                Indextyp/Schlüsseltyp
-            </td>
-            <td>
+            </th>
+            <th>
+                    Indextyp/Schlüsseltyp
+            </th>
+            <th>
                     Feldinhalt
-            </td>
+            </th>
         </tr>
     </thead>
     <tfoot>
         <tr>
-            <td>
+            <th>
                     PICA+
-            </td>
-            <td>
+            </th>
+            <th>
                     PICA3
-            </td>
-            <td>
+            </th>
+            <th>
                     wiederholbar
-            </td>
-            <td>
+            </th>
+            <th>
                    Indextyp/Schlüsseltyp
-            </td>
-            <td>
+            </th>
+            <th>
                     Feldinhalt
-            </td>
+            </th>
         </tr>
     </tfoot>
     <tbody>
