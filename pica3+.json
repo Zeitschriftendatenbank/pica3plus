@@ -1,0 +1,983 @@
+{
+    "data": [
+        [
+            "003@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0100/\">0100</a>",
+            "N",
+            "IDN/IDN",
+            "Identifikationsnummer des Datensatzes (IDN)"
+        ], [
+            "001A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0200/\">0200</a>",
+            "N",
+            "SEN/SER",
+            "Erfassungskennung"
+        ], [
+            "001B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0210/\">0210</a>",
+            "N",
+            "AED/AED",
+            "Änderungskennung"
+        ], [
+            "001D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0230/\">0230</a>",
+            "N",
+            "-",
+            "Eigentümerkennung, Statusänderung"
+        ], [
+            "002@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0500/\">0500</a>",
+            "N",
+            "BBG/BBG",
+            "Bibliographische Gattung / Status"
+        ], [
+            "009@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0599/\">0599</a>",
+            "N",
+            "STA/STA",
+            "Datensatzkennzeichnungen 1. für maschinelle Änderungsverfahren der ZDB und/oder 2. für maschinelle Dienstleistungen der Deutschen Nationalbibliothek"
+        ], [
+            "017A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0600/\">0600</a>",
+            "N",
+            "ICD/ICD",
+            "Code-Angaben der DDB"
+        ], [
+            "017B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0600/\">0600</a>",
+            "N",
+            "ICD/ICD",
+            "Kennzeichnungsfeld für Nationallizenzen und digitale Sammlungen"
+        ], [
+            "008@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/0701/\">0701</a>",
+            "N/J",
+            "-",
+            "DNB-Interimsfeld zur Erfassung von Exemplardaten"
+        ], [
+            "011@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1100/\">1100</a>",
+            "N",
+            "EJB/EJB $a; EJE/EJE $b",
+            "Erscheinungsjahr(e)"
+        ], [
+            "016A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1101/\">1101</a>",
+            "J",
+            "COD/MSC",
+            "Materialspezifische Codes für Elektronische Ressourcen"
+        ], [
+            "016E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1105/\">1105</a>",
+            "J",
+            "-",
+            "Materialspezifische Codes für Mikroformen"
+        ], [
+            "011B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1109/\">1109</a>",
+            "J",
+            "COD/EJA",
+            "Erscheinungsjahr(e) der Sekundärausgabe"
+        ], [
+            "011E/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1110/\">1110</a>",
+            "J",
+            "-",
+            "Zeitangaben zur Herstellung, Verwendung usw."
+        ], [
+            "013C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1130/\">1130</a>",
+            "J",
+            "-",
+            "Datenträger - Internes Feld der DNB"
+        ], [
+            "013D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1131/\">1131</a>",
+            "J",
+            "-",
+            "Inhaltstyp - Internes Feld der DNB"
+        ], [
+            "013E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1132/\">1132</a>",
+            "J",
+            "-",
+            "Form - Internes Feld der DNB"
+        ], [
+            "013H",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1140/\">1140</a>",
+            "N",
+            "COD/VFA",
+            "Veröffentlichungsart und Inhalt"
+        ], [
+            "010@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1500/\">1500</a>",
+            "N",
+            "COD/SC",
+            "Code(s) für Sprache(n) des Textes und des Originals"
+        ], [
+            "019@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1700/\">1700</a>",
+            "N",
+            "COD/LCE",
+            "Code für Erscheinungsland/Erscheinungsländer"
+        ], [
+            "018@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/1800/\">1800</a>",
+            "N",
+            "COD/ERF",
+            "Code für Erscheinungsfrequenz"
+        ], [
+            "004A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2000/\">2000</a>",
+            "J",
+            "NUM/ISB",
+            "Internationale Standard-Buchnummer (ISBN)"
+        ], [
+            "005I",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2005/\">2005</a>",
+            "J",
+            "NUM/ISS",
+            "Autorisierte ISSN des Nationalen ISSN-Zentrums für Deutschland"
+        ], [
+            "005E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2006/\">2006</a>",
+            "N",
+            "-",
+            "Einbandart, Preis, Lieferbedingungen, Sonstiges zur ISSN - Internes Feld der DNB"
+        ], [
+            "005A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2010/\">2010</a>",
+            "J",
+            "NUM/ISS",
+            "Internationale Standard Seriennummer (ISSN) der Vorlage"
+        ], [
+            "005P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2013/\">2013</a>",
+            "J",
+            "NUM/ISS",
+            "ISSNs paralleler Ausgaben"
+        ], [
+            "004G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2015/\">2015</a>",
+            "J",
+            "NUM/ISB",
+            "ISBN der Sekundärausgabe"
+        ], [
+            "004H",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2016/\">2016</a>",
+            "J",
+            "NUM/ISB",
+            "Formal falsche ISBN der Sekundärausgabe"
+        ], [
+            "005B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2019/\">2019</a>",
+            "J",
+            "NUM/ISS",
+            "Formal falsche Internationale Standard Seriennummer (ISSN)"
+        ], [
+            "004K",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2040/\">2040</a>",
+            "N",
+            "NUM/EAN",
+            "Europäische Artikel Nummer (EAN)"
+        ], [
+            "004U",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2050/\">2050</a>",
+            "J",
+            "PAD/PAD",
+            "Persistent Identifier: URN"
+        ], [
+            "004P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2051/\">2051</a>",
+            "J",
+            "PAD/PAD",
+            "Persistent Identifier : Digital Object Identifier (DOI)"
+        ], [
+            "004R",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2052/\">2052</a>",
+            "J",
+            "PAD/PAD",
+            "Persistent Identifier: Handle"
+        ], [
+            "006U",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2105/\">2105</a>",
+            "J",
+            "NUM/WVN",
+            "Lieferungsnummer der Deutschen Nationalbibliografie (m) - Internes Feld der DNB"
+        ], [
+            "006Z",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2110/\">2110</a>",
+            "N",
+            "NUM/ZDB",
+            "ZDB-Nummer / ZDB-ID"
+        ], [
+            "006S",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2111/\">2111</a>",
+            "J",
+            "NUM/ZDB",
+            "ZDB-Nummern / ZDB-ID umgelenkter Datensätze"
+        ], [
+            "006D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2115/\">2115</a>",
+            "N",
+            "NUM/DBN",
+            "Identifikationsnummer der Deutschen Nationalbibliothek (m) - Internes Feld der DNB"
+        ], [
+            "006V",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2150/\">2150</a>",
+            "N",
+            "-",
+            "Eindeutige Identifizierung bei Netzpublikationen in DNB"
+        ], [
+            "006N",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2185/\">2185</a>",
+            "J",
+            "NUM/STN",
+            "Swets-Nummer"
+        ], [
+            "006X",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2198/\">2198</a>",
+            "J",
+            "NUM/STN",
+            "Eindeutige Identifizierung der abliefernden Stelle bei Netzpublikationen - Internes Feld der DNB"
+        ], [
+            "006Y",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2199/\">2199</a>",
+            "J",
+            "NUM/STN",
+            "Sonstige Standardnummern"
+        ], [
+            "007C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2200/\">2200</a>",
+            "J",
+            "NUM/CDN",
+            "Coden"
+        ], [
+            "007A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2220/\">2220</a>",
+            "N",
+            "NUM/POV",
+            "Postvertriebskennzeichen"
+        ], [
+            "007B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/2225/\">2225</a>",
+            "J",
+            "NUM/ADS",
+            "Amtliche Druckschriftennummer"
+        ], [
+            "028C - 028C/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3010\">3010 - 3019</a>",
+            "N",
+            "-",
+            "1. bis 10. sonstige beteiligte Person"
+        ], [
+            "029A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3100/\">3100</a>",
+            "N",
+            "-",
+            "Primärkörperschaft"
+        ], [
+            "029F - 029F/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3120/\">3120 - 3129</a>",
+            "N/J",
+            "-",
+            "Sekundärkörperschaften"
+        ], [
+            "025@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3220/\">3220</a>",
+            "N/J",
+            "TIT/TIH; TST/TST; TSL/TSL",
+            "Ansetzungssachtitel"
+        ], [
+            "026C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3232/\">3232</a>",
+            "J",
+            "ZKT/ZKT",
+            "Normierter Zeitschriftenkurztitel"
+        ], [
+            "027A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/3260/\">3260</a>",
+            "J",
+            "TST/TST",
+            "Sachtitelformen für Nebeneintragungen/Sucheinstiege"
+        ], [
+            "021A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4000/\">4000</a>",
+            "N/J",
+            "TIT/TIH $a $e $f; TST/TST $a $f; TST/TIZ $d $n; TST/TSL $a, COD/SCR/Sy $U",
+            "Hauptsachtitel, Körperschaftliche Ergänzungen, Zusätze, Parallelsachtitel, Verfasserangabe"
+        ], [
+            "021C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4005/\">4005</a>",
+            "J",
+            "TST/TST $a $e; TST/TIB $a $e $f $r; TST/TIZ $n",
+            "Titel von Unterreihen fortlaufender Sammelwerke"
+        ], [
+            "031N",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4024/\">4024</a>",
+            "N",
+            "-",
+            "Erscheinungsverlauf in maschinell interpretierbarer Form"
+        ], [
+            "031@",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4025/\">4025</a>",
+            "N",
+            "-",
+            "Erscheinungsverlauf"
+        ], [
+            "035E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4026/\">4026</a>",
+            "N",
+            "-",
+            "Kartographische Materialien: mathematische Angaben"
+        ], [
+            "033A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4030/\">4030</a>",
+            "J",
+            "VER/VLG $n; VER/VLO $p",
+            "Verlagsorte, Verlag, Verleger"
+        ], [
+            "033B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4035/\">4035</a>",
+            "J",
+            "VER/VLG $n; VER/VLO $p",
+            "Frühere Verlagsorte und Verleger"
+        ], [
+            "033C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4045/\">4045</a>",
+            "J",
+            "VER/VLG $n; VER/VLO $p",
+            "Druckorte, Drucker"
+        ], [
+            "033N",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4048/\">4048</a>",
+            "J",
+            "VER/VLG $n; VER/VLO $p",
+            "Verlagsort, Verlag der Sekundärausgaben"
+        ], [
+            "033H",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4050/\">4050</a>",
+            "J",
+            "KSV/KSV",
+            "Verbreitungsort in normierter Form"
+        ], [
+            "034D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4060/\">4060</a>",
+            "N/J",
+            "UFA/UFA $a; COD/SCR $U",
+            "Spezifische Materialbenennung und Umfangsangabe"
+        ], [
+            "034M",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4061/\">4061</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Sonstige physische und technische Angaben"
+        ], [
+            "034I",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4062/\">4062</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Format, Maßangaben und dgl."
+        ], [
+            "034K",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4063/\">4063</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Begleitmaterial"
+        ], [
+            "009P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4083/\">4083</a>",
+            "J",
+            "ADR/ADR",
+            "Adresse im Archiv- oder Multimedia-bereitstellungssystem der DNB"
+        ], [
+            "009Q",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4085/\">4085</a>",
+            "J",
+            "EAZ/EAZ $u; KFR/KFR $z",
+            "Adresse und Zugriffsart für elektronische Ressourcen im Fernzugriff"
+        ], [
+            "036H",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4105/\">4105</a>",
+            "J",
+            "-",
+            "Zugehörigkeit zu einer Sammlung (Verknüpfung zu einem Qd-/ oder V*-Satz)"
+        ], [
+            "036L/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4119/\">4119</a>",
+            "J",
+            "TIT/TIG; COD/SCR $U",
+            "Ungezählte Schriftenreihen der Sekundärausgaben"
+        ], [
+            "036G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4190/\">4190</a>",
+            "J",
+            "TIT/TIG; TIT/TST $a $b; COD/SCR $U",
+            "Ungezählte Schriftenreihen (Vorlageform)"
+        ], [
+            "047C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4200/\">4200</a>",
+            "N/J",
+            "TIT/TIH; TST/TST; COD/SCR $U",
+            "Stichwörter in abweichender Orthographie"
+        ], [
+            "046N",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4202/\">4202</a>",
+            "N",
+            "-",
+            "Deutsche Übersetzung des Hauptsachtitels"
+        ], [
+            "047P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4203/\">4203</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Zusammenfassende Register"
+        ], [
+            "046E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4207/\">4207</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Angaben zum Inhalt elektronischer Ressourcen"
+        ], [
+            "046C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4212/\">4212</a>",
+            "J",
+            "TIT/TIH; TST/TST; COD/SCR $U",
+            "Nebentitel"
+        ], [
+            "046D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4213/\">4213</a>",
+            "J",
+            "TIT/TIH; TST/TST; COD/SCR $U",
+            "Angaben zu Haupt- und Nebensachtiteln und den Zusätzen"
+        ], [
+            "046F",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4215/\">4215</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Vermerke zur Verfasserangabe"
+        ], [
+            "046G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4216/\">4216</a>",
+            "N/J",
+            "RPR/RPR; COD/SCR $U",
+            "Angaben zur Ausgabebezeichnung"
+        ], [
+            "046L",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4221/\">4221</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Angaben über Schrift, Sprache und Vollständigkeit der Vorlage"
+        ], [
+            "0460",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4224/\">4224</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Teilungsvermerk bei fortlaufenden Sammelwerken"
+        ], [
+            "046P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4225/\">4225</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Angaben über Erscheinungsweise und Erscheinungsdauer"
+        ], [
+            "046Q",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4226/\">4226</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Hinweise auf unselbständig enthaltene Werke"
+        ], [
+            "046X",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4233/\">4233</a>",
+            "J",
+            "LZA",
+            "Langzeitarchivierung elektronischer Ressourcen"
+        ], [
+            "037G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4237/\">4237</a>",
+            "N/J",
+            "COD/SCR $U",
+            "Spezifische Fußnote zur Sekundärausgabe"
+        ], [
+            "039B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4241/\">4241</a>",
+            "J",
+            "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
+            "\"Beilage zu\" (Angabe in der Beilage)"
+        ], [
+            "039C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4242/\">4242</a>",
+            "J",
+            "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
+            "\"Beilage\" (Angabe in der Hauptzeitschrift)"
+        ], [
+            "039D",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4243/\">4243</a>",
+            "J",
+            "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
+            "Parallele Ausgaben"
+        ], [
+            "039E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4244/\">4244</a>",
+            "J",
+            "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
+            "Chronologische Verknüpfung"
+        ], [
+            "039S",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4245/\">4245</a>",
+            "J",
+            "TIT/TIH $r; COD/SCR $U",
+            "Titelkonkordanzen"
+        ], [
+            "048H/01",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4251/\">4251</a>",
+            "J",
+            "COD/SCR $U",
+            "Systemvoraussetzungen für Elektronische Ressourcen"
+        ], [
+            "048G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4260/\">4260</a>",
+            "J",
+            "VDD $a",
+            "Bestandsschutzmaßnahmen"
+        ], [
+            "039Y",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4276/\">4276</a>",
+            "J",
+            "-",
+            "Bezugswerk / Quelle - Internes Feld der DNB"
+        ], [
+            "047A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4700/\">4700</a>",
+            "J",
+            "VAD/VAD $f; ABT/ABT $S",
+            "DNB-internes Bemerkungsfeld - Internes Feld der DNB"
+        ], [
+            "047B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4701/\">4701</a>",
+            "N",
+            "BZT/BZT",
+            "Bemerkungen zur Titelaufnahme"
+        ], [
+            "047R",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4711/\">4711</a>",
+            "N",
+            "RKL/RKL $j $s $k",
+            "Angaben zur Rechteklärung sowie zum urheberrechtlichen Status (Echt Kölnisch Wasser)"
+        ], [
+            "047T",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4712/\">4712</a>",
+            "J",
+            "RKD/RKD $D, $n",
+            "Datum der Rechteklärung"
+        ], [
+            "047V",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4713/\">4713</a>",
+            "J",
+            "-",
+            "Rechte (außer Urheberrecht)"
+        ], [
+            "047I",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4715/\">4715</a>",
+            "J",
+            "EAZ/EAZ für $u",
+            "Elektronische Adresse für Dateien mit inhaltlichen Beschreibungen zum Dokument"
+        ], [
+            "247C/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4800/\">4800</a>",
+            "N",
+            "-",
+            "Bibliothekskennzeichen / Verknüpfung zur Bibliotheksdatei"
+        ], [
+            "237A/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4801/\">4801</a>",
+            "N",
+            "-",
+            "Exemplarbezogener Kommentar"
+        ], [
+            "220B/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4802/\">4802</a>",
+            "N",
+            "-",
+            "Bestandsschutzmaßnahmen, äquivalent zu 046X/4233"
+        ], [
+            "220A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4820/\">4820</a>",
+            "N",
+            "SIG/ASI $a; PVZ/PVZ $p",
+            "Provenienzvermerke"
+        ], [
+            "220A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/4822/\">4822</a>",
+            "N",
+            "PZG/PZG",
+            "Paketzugehörigkeit"
+        ], [
+            "045E",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5050/\">5050</a>",
+            "N",
+            "SGT/HSG; SGT/ASG; SGT/NSG; SGT/DHS; SGT/DBS",
+            "Sachgruppen der Deutschen Nationalbibliographie"
+        ], [
+            "045T",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5056/\">5056</a>",
+            "N",
+            "SYS/SSG",
+            "SSG-Angaben"
+        ], [
+            "045W",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5057/\">5057</a>",
+            "N",
+            "-",
+            "OLC-Ausschnittskennung"
+        ], [
+            "045U",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5080/\">5080</a>",
+            "N",
+            "COD/DCZ",
+            "DDC-Sachgruppen der ZDB"
+        ], [
+            "041A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/510X-519X/\">510X - 519X</a>",
+            "N/J",
+            "COD/LCO; COD/LCT; COD/SNT; SWT/SWN; SKT/SKT",
+            "1.-10. Schlagwort der 1. - 10. Schlagwortfolge"
+        ], [
+            "045Q/01 - 045Q/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5301-5309/\">5301 - 5309</a>",
+            "N",
+            "-",
+            "1.-9. Verknüpfung zur Basisklassifikation (BK)"
+        ], [
+            "045V/00 -045V/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5310-5319/\">5310 - 5319</a>",
+            "N",
+            "-",
+            "1.-9. Verknüpfung zur SMM-Klassifikation"
+        ], [
+            "045P/00 - 045P/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5320-5329/\">5320 - 5329</a>",
+            "J",
+            "SYW/SYW",
+            "1.-9. Verknüpfung zur DBSM-Klassifikation - Internes Feld der DNB"
+        ], [
+            "045F/00 - 045F/04",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5400-5404/\">5400 - 5404</a>",
+            "N/J",
+            "DDT/DDH",
+            "DDC-Notation der Deutschen Nationalbibliothek"
+        ], [
+            "045G",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5410/\">5410</a>",
+            "N",
+            "DDT/DDW $a",
+            "Angaben zur ersten DDC-Notation, vollständige Notation"
+        ], [
+            "045G/01",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5411/\">5411</a>",
+            "N",
+            "DDT/DDW",
+            "Angaben zur ersten DDC-Notation, Grundnotation"
+        ], [
+            "045G/02",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5412/\">5412</a>",
+            "N",
+            "DDT/DDW",
+            "Angaben zur ersten DDC-Notation, Notationen anderer Haupttafeln"
+        ], [
+            "045G/03",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5413/\">5413</a>",
+            "J",
+            "DDT/DDW",
+            "Angaben zur ersten DDC-Notation, Notationen aus Hilfstafeln"
+        ], [
+            "045G/04",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5414/\">5414</a>",
+            "J",
+            "DDT/DDW",
+            "Angaben zur ersten DDC-Notation, Notationen aus einer Anhängetafel"
+        ], [
+            "045H/00 - 045H/04",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5420-5424/\">5420 - 5424</a>",
+            "N/J",
+            "DDT/DDW",
+            "Angaben zur zweiten DDC-Notation"
+        ], [
+            "045I/00 - 045I/04",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5430-5434/\">5430 - 5434</a>",
+            "N/J",
+            "DDT/DDW",
+            "Angaben zur dritten DDC-Notation"
+        ], [
+            "045J/00 - 045J/04",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5440-5444/\">5440 - 5444</a>",
+            "N/J",
+            "DDT/DDW",
+            "Angaben zur vierten DDC-Notation"
+        ], [
+            "045Z",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5450/\">5450</a>",
+            "J",
+            "SYS/KLA",
+            "Notation eines Klassifikationsystems (aus Fremddaten)"
+        ], [
+            "044F",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5530/\">5530</a>",
+            "?",
+            "SWT/SWA; COD/SNA; COD/LCO; COD/LCT",
+            "Schlagwörter aus Altdaten der DNB - Internes Feld der DNB"
+        ], [
+            "044K",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5550/\">5550</a>",
+            "J",
+            "SW/SW $9; SW/SWZ $a",
+            "GND-Schlagwörter (aus Fremddaten)"
+        ], [
+            "044N",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/5560/\">5560</a>",
+            "J",
+            "DSF/DSF $a; DSQ/DSQ $b",
+            "Deskriptoren aus einem Thesaurus"
+        ], [
+            "245Z",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/6700/\">6700</a>",
+            "J",
+            "LNO/LNO",
+            "Lokale Notation"
+        ], [
+            "245Y",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/6710/\">6710</a>",
+            "J",
+            "-",
+            "Aufstellung innerhalb / Zugehörigkeit zu einer Sammlung - Internes Feld der DNB"
+        ], [
+            "208@/01 - 208@/99",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7001/\">7001 - 7099</a>",
+            "N",
+            "SLK/SLK $b Pos. 1+2",
+            "Exemplarfeld"
+        ], [
+            "209A/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7100-7109/\">7100 - 7109</a>",
+            "N",
+            "SGN/GSI $a; SGN/SON $f $g",
+            "Signaturen/Standorte"
+        ], [
+            "231@/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7120/\">7120</a>",
+            "N",
+            "-",
+            "Bestandsangaben in maschinell interpretierbarer Form"
+        ], [
+            "209I/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7130/\">7130</a>",
+            "J",
+            "-",
+            "Rechte (außer Urheberrecht)"
+        ], [
+            "209R/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7131/\">7131</a>",
+            "J",
+            "-",
+            "Angaben zur Präsentation (Elektronische Adresse für Dateien mit inhaltlichen Beschreibungen zum Dokument)"
+        ], [
+            "209K/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7133/\">7133</a>",
+            "N",
+            "-",
+            "Angaben zu Zugriffsrechten"
+        ], [
+            "231@/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7134/\">7134</a>",
+            "N",
+            "-",
+            "Codierte Angaben zu Dokument-, Preis- und Lizenztyp"
+        ], [
+            "209S",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7135/\">7135</a>",
+            "J",
+            "URL/URL",
+            "Adresse und Zugriffsart für elektronische Ressourcen"
+        ], [
+            "204U/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7136/\">7136</a>",
+            "J",
+            "-",
+            "Persistent Identifier: URN"
+        ], [
+            "204P/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7137/\">7137</a>",
+            "J",
+            "-",
+            "Persistent Identifier: DOI"
+        ], [
+            "204R/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7138/\">7138</a>",
+            "J",
+            "-",
+            "Persistent Identifier: Handle"
+        ], [
+            "231L/00 - 231L/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7140-7149/\">7140 - 7149</a>",
+            "N",
+            "-",
+            "Aufbewahrungs-/ Verfügbarkeitszeitraum, Moving wall zur 1. - 10. Signatur (in normierter Form)"
+        ], [
+            "209M/00",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7150/\">7150</a>",
+            "N",
+            "SGN/GSI (nur $a und $c)",
+            "Signatur des weiteren Standortes der DNB"
+        ], [
+            "209M/09",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7159/\">7159</a>",
+            "N",
+            "SGN/GSI (nur $f und $g)",
+            "Aufstellungsnotation des weiteren Standortes der DNB"
+        ], [
+            "203@/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7800/\">7800</a>",
+            "N",
+            "EID/EID",
+            "Exemplar-Produktionsnummer (EPN) / Exemplar-Identifikationsnummer"
+        ], [
+            "201B/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/7900/\">7900</a>",
+            "N",
+            "AEE/AEE",
+            "Korrekturdatum des Exemplardatensatzes"
+        ], [
+            "209B/01",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8001/\">8001</a>",
+            "N",
+            "COD/MCE",
+            "Materialcode auf Exemplarebene"
+        ], [
+            "209B/31",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8031/\">8031</a>",
+            "N",
+            "-",
+            "Einleitender Text zur zusammenfassenden Bestandsangabe"
+        ], [
+            "209B/32",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8032/\">8032</a>",
+            "N",
+            "-",
+            "Zusammenfassende Bestandsangabe"
+        ], [
+            "209B/33",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8033/\">8033</a>",
+            "N",
+            "-",
+            "Lückenangabe"
+        ], [
+            "209B/34",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8034/\">8034</a>",
+            "N",
+            "KOB/KOB",
+            "Kommentar zum Bestand"
+        ], [
+            "209B/35",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8035/\">8035</a>",
+            "N",
+            "-",
+            "Angabe für Desideratenverzeichnisse"
+        ], [
+            "209C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8100/\">8100</a>",
+            "N",
+            "AKZ/AKZ",
+            "Zugangsnummer / Akzessionsnummer"
+        ], [
+            "209G/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8200/\">8200</a>",
+            "N",
+            "-",
+            "Buchungsnummer"
+        ], [
+            "233S",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8448/\">8448</a>",
+            "J",
+            "-",
+            "Verlagsort/Verleger Sekundärausgabe"
+        ], [
+            "233O",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8449/\">8449</a>",
+            "J",
+            "-",
+            "Herstellungsort, Hersteller der Sekundärausgaben"
+        ], [
+            "233Q",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8465/\">8465</a>",
+            "N",
+            "-",
+            "Besitznachweis für die Verfilmungs – o. Digitalisierungsvorlage"
+        ], [
+            "233R",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8466/\">8466</a>",
+            "N",
+            "-",
+            "Besitznachweis für den Sekundärausgabe-Master"
+        ], [
+            "233P",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8467/\">8467</a>",
+            "J",
+            "-",
+            "1. bis 2. Urheber der Verfilmung/Digit."
+        ], [
+            "245G/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8510/\">8510</a>",
+            "N",
+            "LOK/SOS; LOK/SSN; LOK/PRZ; LOK/FZA $d",
+            "Sondersammelgebiete und Prioritätszahl (SSG-Angaben)"
+        ], [
+            "206L/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8594/\">8594</a>",
+            "N",
+            "-",
+            "Langzeitarchivierung"
+        ], [
+            "206W/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8595/\">8595</a>",
+            "J",
+            "-",
+            "Regionale Verzahnung"
+        ], [
+            "206X/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8596/\">8596</a>",
+            "N",
+            "-",
+            "Lokaldaten-Identifikationsnummer aus Altdatenkonversion"
+        ], [
+            "206Y/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8597/\">8597</a>",
+            "J",
+            "NUM/RID",
+            "Regionale Identifikationsnummer"
+        ], [
+            "206Z/XX",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8598/\">8598</a>",
+            "J",
+            "-",
+            "Lokale Identifikationsnummer"
+        ], [
+            "089A",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8900/\">8900</a>",
+            "N",
+            "-",
+            "Verknüpfungsnummer des zu korrigierenden Satzes (Mailboxen)"
+        ], [
+            "089B",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8901/\">8901</a>",
+            "N",
+            "EMP/EMP",
+            "Datum und Empfängers des Mailboxsatzes"
+        ], [
+            "089C",
+            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/arbeitsunterlagen/zeta/8902/\">8902</a>",
+            "N",
+            "-",
+            "Text des Mailboxsatzes"
+        ]
+    ]
+}
