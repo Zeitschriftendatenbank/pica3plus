@@ -2,308 +2,308 @@
     "data": [
         [
             "003@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0100/\">0100</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0100.pdf\">0100</a>",
             "N",
             "IDN/IDN",
             "Identifikationsnummer des Datensatzes (IDN)"
         ],
         [
             "001A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0200/\">0200</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0200.pdf\">0200</a>",
             "N",
             "SEN/SER",
             "Erfassungskennung"
         ],
         [
             "001B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0210/\">0210</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0210.pdf\">0210</a>",
             "N",
             "AED/AED",
             "Änderungskennung"
         ],
         [
             "001D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0230/\">0230</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0230.pdf\">0230</a>",
             "N",
             "-",
             "Eigentümerkennung, Statusänderung"
         ],
         [
             "002@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0500/\">0500</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0500.pdf\">0500</a>",
             "N",
             "BBG/BBG",
             "Bibliographische Gattung / Status"
         ],
         [
             "009@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0599/\">0599</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0599.pdf\">0599</a>",
             "N",
             "STA/STA",
             "Datensatzkennzeichnungen 1. für maschinelle Änderungsverfahren der ZDB und/oder 2. für maschinelle Dienstleistungen der Deutschen Nationalbibliothek"
         ],
         [
             "017A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0600/\">0600</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0600.pdf\">0600</a>",
             "N",
             "ICD/ICD",
             "Code-Angaben der ZDB"
         ],
         [
             "017B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0601/\">0601</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0601.pdf\">0601</a>",
             "N",
             "ICD/ICD",
             "Kennzeichnungsfeld für Nationallizenzen und digitale Sammlungen"
         ],
         [
             "008@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/0701/\">0701</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/0701.pdf\">0701</a>",
             "N/J",
             "-",
             "DNB-Interimsfeld zur Erfassung von Exemplardaten"
         ],
         [
             "011@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1100/\">1100</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1100.pdf\">1100</a>",
             "N",
             "EJB/EJB $a; EJE/EJE $b",
             "Erscheinungsjahr(e)"
         ],
         [
             "016A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1101/\">1101</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1101.pdf\">1101</a>",
             "J",
             "COD/MSC",
             "Materialspezifische Codes für Elektronische Ressourcen"
         ],
         [
             "016E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1105/\">1105</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1105.pdf\">1105</a>",
             "J",
             "-",
             "Materialspezifische Codes für Mikroformen"
         ],
         [
             "011B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1109/\">1109</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1109.pdf\">1109</a>",
             "J",
             "COD/EJA",
             "Erscheinungsjahr(e) der Sekundärausgabe"
         ],
         [
             "011E/XX",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1110/\">1110</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1110.pdf\">1110</a>",
             "J",
             "-",
             "Zeitangaben zur Herstellung, Verwendung usw."
         ],
         [
             "013C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1130/\">1130</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1130.pdf\">1130</a>",
             "J",
             "-",
             "Datenträger - Internes Feld der DNB"
         ],
         [
             "013D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1131/\">1131</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1131.pdf\">1131</a>",
             "J",
             "-",
             "Inhaltstyp - Internes Feld der DNB"
         ],
         [
             "013E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1132/\">1132</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1132.pdf\">1132</a>",
             "J",
             "-",
             "Form - Internes Feld der DNB"
         ],
         [
             "013H",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1140/\">1140</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1140.pdf\">1140</a>",
             "N",
             "COD/VFA",
             "Veröffentlichungsart und Inhalt"
         ],
         [
             "010@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1500/\">1500</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1500.pdf\">1500</a>",
             "N",
             "COD/SC",
             "Code(s) für Sprache(n) des Textes und des Originals"
         ],
         [
             "019@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1700/\">1700</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1700.pdf\">1700</a>",
             "N",
             "COD/LCE",
             "Code für Erscheinungsland/Erscheinungsländer"
         ],
         [
             "018@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/1800/\">1800</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/1800.pdf\">1800</a>",
             "N",
             "COD/ERF",
             "Code für Erscheinungsfrequenz"
         ],
         [
             "004A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2000/\">2000</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2000.pdf\">2000</a>",
             "J",
             "NUM/ISB",
             "Internationale Standard-Buchnummer (ISBN)"
         ],
         [
             "005I",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2005/\">2005</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2005.pdf\">2005</a>",
             "J",
             "NUM/ISS",
             "Autorisierte ISSN des Nationalen ISSN-Zentrums für Deutschland"
         ],
         [
             "005E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2006/\">2006</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2006.pdf\">2006</a>",
             "N",
             "-",
             "Einbandart, Preis, Lieferbedingungen, Sonstiges zur ISSN - Internes Feld der DNB"
         ],
         [
             "005A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2010/\">2010</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2010.pdf\">2010</a>",
             "J",
             "NUM/ISS",
             "Internationale Standard Seriennummer (ISSN) der Vorlage"
         ],
         [
             "005P",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2013/\">2013</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2013.pdf\">2013</a>",
             "J",
             "NUM/ISS",
             "ISSNs paralleler Ausgaben"
         ],
         [
             "004G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2015/\">2015</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2015.pdf\">2015</a>",
             "J",
             "NUM/ISB",
             "ISBN der Sekundärausgabe"
         ],
         [
             "004H",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2016/\">2016</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2016.pdf\">2016</a>",
             "J",
             "NUM/ISB",
             "Formal falsche ISBN der Sekundärausgabe"
         ],
         [
             "005B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2019/\">2019</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2019.pdf\">2019</a>",
             "J",
             "NUM/ISS",
             "Formal falsche Internationale Standard Seriennummer (ISSN)"
         ],
         [
             "004K",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2040/\">2040</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2040.pdf\">2040</a>",
             "N",
             "NUM/EAN",
             "Europäische Artikel Nummer (EAN)"
         ],
         [
             "004U",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2050/\">2050</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2050.pdf\">2050</a>",
             "J",
             "PAD/PAD",
             "Persistent Identifier: URN"
         ],
         [
             "004P",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2051/\">2051</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2051.pdf\">2051</a>",
             "J",
             "PAD/PAD",
             "Persistent Identifier : Digital Object Identifier (DOI)"
         ],
         [
             "004R",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2052/\">2052</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2052.pdf\">2052</a>",
             "J",
             "PAD/PAD",
             "Persistent Identifier: Handle"
         ],
         [
             "006U",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2105/\">2105</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2105.pdf\">2105</a>",
             "J",
             "NUM/WVN",
             "Lieferungsnummer der Deutschen Nationalbibliografie (m) - Internes Feld der DNB"
         ],
         [
             "006Z",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2110/\">2110</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2110.pdf\">2110</a>",
             "N",
             "NUM/ZDB",
             "ZDB-Nummer / ZDB-ID"
         ],
         [
             "006S",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2111/\">2111</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2111.pdf\">2111</a>",
             "J",
             "NUM/ZDB",
             "ZDB-Nummern / ZDB-ID umgelenkter Datensätze"
         ],
         [
             "006D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2115/\">2115</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2115.pdf\">2115</a>",
             "N",
             "NUM/DBN",
             "Identifikationsnummer der Deutschen Nationalbibliothek (m) - Internes Feld der DNB"
         ],
         [
             "006V",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2150/\">2150</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2150.pdf\">2150</a>",
             "N",
             "-",
             "Eindeutige Identifizierung bei Netzpublikationen in DNB"
         ],
         [
             "006N",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2185/\">2185</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2185.pdf\">2185</a>",
             "J",
             "NUM/STN",
             "Swets-Nummer"
         ],
         [
             "006X",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2198/\">2198</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2198.pdf\">2198</a>",
             "J",
             "NUM/STN",
             "Eindeutige Identifizierung der abliefernden Stelle bei Netzpublikationen - Internes Feld der DNB"
         ],
         [
             "006Y",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2199/\">2199</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2199.pdf\">2199</a>",
             "J",
             "NUM/STN",
             "Sonstige Standardnummern"
         ],
         [
             "007C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2200/\">2200</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2200.pdf\">2200</a>",
             "J",
             "NUM/CDN",
             "Coden"
         ],
         [
             "007A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2220/\">2220</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2220.pdf\">2220</a>",
             "N",
             "NUM/POV",
             "Postvertriebskennzeichen"
         ],
         [
             "007B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/2225/\">2225</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/2225.pdf\">2225</a>",
             "J",
             "NUM/ADS",
             "Amtliche Druckschriftennummer"
@@ -317,364 +317,364 @@
         ],
         [
             "029A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/3100/\">3100</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/3100.pdf\">3100</a>",
             "N",
             "-",
             "Primärkörperschaft"
         ],
         [
             "029F - 029F/09",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/3120/\">3120 - 3129</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/3120.pdf\">3120 - 3129</a>",
             "N/J",
             "-",
             "Sekundärkörperschaften"
         ],
         [
             "025@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/3220/\">3220</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/3220.pdf\">3220</a>",
             "N/J",
             "TIT/TIH; TST/TST; TSL/TSL",
             "Ansetzungssachtitel"
         ],
         [
             "026C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/3232/\">3232</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/3232.pdf\">3232</a>",
             "J",
             "ZKT/ZKT",
             "Normierter Zeitschriftenkurztitel"
         ],
         [
             "027A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/3260/\">3260</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/3260.pdf\">3260</a>",
             "J",
             "TST/TST",
             "Sachtitelformen für Nebeneintragungen/Sucheinstiege"
         ],
         [
             "021A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4000/\">4000</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4000.pdf\">4000</a>",
             "N/J",
             "TIT/TIH $a $e $f; TST/TST $a $f; TST/TIZ $d $n; TST/TSL $a, COD/SCR/Sy $U",
             "Hauptsachtitel, Körperschaftliche Ergänzungen, Zusätze, Parallelsachtitel, Verfasserangabe"
         ],
         [
             "021C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4005/\">4005</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4005.pdf\">4005</a>",
             "J",
             "TST/TST $a $e; TST/TIB $a $e $f $r; TST/TIZ $n",
             "Titel von Unterreihen fortlaufender Sammelwerke"
         ],
         [
             "031N",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4024/\">4024</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4024.pdf\">4024</a>",
             "N",
             "-",
             "Erscheinungsverlauf in maschinell interpretierbarer Form"
         ],
         [
             "031@",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4025/\">4025</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4025.pdf\">4025</a>",
             "N",
             "-",
             "Erscheinungsverlauf"
         ],
         [
             "035E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4026/\">4026</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4026.pdf\">4026</a>",
             "N",
             "-",
             "Kartographische Materialien: mathematische Angaben"
         ],
         [
             "033A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4030/\">4030</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4030.pdf\">4030</a>",
             "J",
             "VER/VLG $n; VER/VLO $p",
             "Verlagsorte, Verlag, Verleger"
         ],
         [
             "033B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4035/\">4035</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4035.pdf\">4035</a>",
             "J",
             "VER/VLG $n; VER/VLO $p",
             "Frühere Verlagsorte und Verleger"
         ],
         [
             "033C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4045/\">4045</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4045.pdf\">4045</a>",
             "J",
             "VER/VLG $n; VER/VLO $p",
             "Druckorte, Drucker"
         ],
         [
             "033N",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4048/\">4048</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4048.pdf\">4048</a>",
             "J",
             "VER/VLG $n; VER/VLO $p",
             "Verlagsort, Verlag der Sekundärausgaben"
         ],
         [
             "033H",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4050/\">4050</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4050.pdf\">4050</a>",
             "J",
             "KSV/KSV",
             "Verbreitungsort in normierter Form"
         ],
         [
             "034D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4060/\">4060</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4060.pdf\">4060</a>",
             "N/J",
             "UFA/UFA $a; COD/SCR $U",
             "Spezifische Materialbenennung und Umfangsangabe"
         ],
         [
             "034M",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4061/\">4061</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4061.pdf\">4061</a>",
             "N/J",
             "COD/SCR $U",
             "Sonstige physische und technische Angaben"
         ],
         [
             "034I",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4062/\">4062</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4062.pdf\">4062</a>",
             "N/J",
             "COD/SCR $U",
             "Format, Maßangaben und dgl."
         ],
         [
             "034K",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4063/\">4063</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4063.pdf\">4063</a>",
             "N/J",
             "COD/SCR $U",
             "Begleitmaterial"
         ],
         [
             "009P",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4083/\">4083</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4083.pdf\">4083</a>",
             "J",
             "ADR/ADR",
             "Adresse im Archiv- oder Multimedia-bereitstellungssystem der DNB"
         ],
         [
             "009Q",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4085/\">4085</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4085.pdf\">4085</a>",
             "J",
             "EAZ/EAZ $u; KFR/KFR $z",
             "Adresse und Zugriffsart für elektronische Ressourcen im Fernzugriff"
         ],
         [
             "036H",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4105/\">4105</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4105.pdf\">4105</a>",
             "J",
             "-",
             "Zugehörigkeit zu einer Sammlung (Verknüpfung zu einem Qd-/ oder V*-Satz)"
         ],
         [
             "036L/09",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4119/\">4119</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4119.pdf\">4119</a>",
             "J",
             "TIT/TIG; COD/SCR $U",
             "Ungezählte Schriftenreihen der Sekundärausgaben"
         ],
         [
             "036G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4190/\">4190</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4190.pdf\">4190</a>",
             "J",
             "TIT/TIG; TIT/TST $a $b; COD/SCR $U",
             "Ungezählte Schriftenreihen (Vorlageform)"
         ],
         [
             "047C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4200/\">4200</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4200.pdf\">4200</a>",
             "N/J",
             "TIT/TIH; TST/TST; COD/SCR $U",
             "Stichwörter in abweichender Orthographie"
         ],
         [
             "046N",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4202/\">4202</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4202.pdf\">4202</a>",
             "N",
             "-",
             "Deutsche Übersetzung des Hauptsachtitels"
         ],
         [
             "047P",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4203/\">4203</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4203.pdf\">4203</a>",
             "N/J",
             "COD/SCR $U",
             "Zusammenfassende Register"
         ],
         [
             "046E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4207/\">4207</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4207.pdf\">4207</a>",
             "N/J",
             "COD/SCR $U",
             "Angaben zum Inhalt elektronischer Ressourcen"
         ],
         [
             "046C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4212/\">4212</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4212.pdf\">4212</a>",
             "J",
             "TIT/TIH; TST/TST; COD/SCR $U",
             "Nebentitel"
         ],
         [
             "046D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4213/\">4213</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4213.pdf\">4213</a>",
             "J",
             "TIT/TIH; TST/TST; COD/SCR $U",
             "Angaben zu Haupt- und Nebensachtiteln und den Zusätzen"
         ],
         [
             "046F",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4215/\">4215</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4215.pdf\">4215</a>",
             "N/J",
             "COD/SCR $U",
             "Vermerke zur Verfasserangabe"
         ],
         [
             "046G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4216/\">4216</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4216.pdf\">4216</a>",
             "N/J",
             "RPR/RPR; COD/SCR $U",
             "Angaben zur Ausgabebezeichnung"
         ],
         [
             "046L",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4221/\">4221</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4221.pdf\">4221</a>",
             "N/J",
             "COD/SCR $U",
             "Angaben über Schrift, Sprache und Vollständigkeit der Vorlage"
         ],
         [
             "0460",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4224/\">4224</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4224.pdf\">4224</a>",
             "N/J",
             "COD/SCR $U",
             "Teilungsvermerk bei fortlaufenden Sammelwerken"
         ],
         [
             "046P",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4225/\">4225</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4225.pdf\">4225</a>",
             "N/J",
             "COD/SCR $U",
             "Angaben über Erscheinungsweise und Erscheinungsdauer"
         ],
         [
             "046Q",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4226/\">4226</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4226.pdf\">4226</a>",
             "N/J",
             "COD/SCR $U",
             "Hinweise auf unselbständig enthaltene Werke"
         ],
         [
             "046X",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4233/\">4233</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4233.pdf\">4233</a>",
             "J",
             "LZA",
             "Langzeitarchivierung elektronischer Ressourcen"
         ],
         [
             "037G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4237/\">4237</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4237.pdf\">4237</a>",
             "N/J",
             "COD/SCR $U",
             "Spezifische Fußnote zur Sekundärausgabe"
         ],
         [
             "039B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4241/\">4241</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4241.pdf\">4241</a>",
             "J",
             "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
             "\"Beilage zu\" (Angabe in der Beilage)"
         ],
         [
             "039C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4242/\">4242</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4242.pdf\">4242</a>",
             "J",
             "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
             "\"Beilage\" (Angabe in der Hauptzeitschrift)"
         ],
         [
             "039D",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4243/\">4243</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4243.pdf\">4243</a>",
             "J",
             "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
             "Parallele Ausgaben"
         ],
         [
             "039E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4244/\">4244</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4244.pdf\">4244</a>",
             "J",
             "TIT/TIH $r; BZA/BZA $a; COD/SCR $U",
             "Chronologische Verknüpfung"
         ],
         [
             "039S",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4245/\">4245</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4245.pdf\">4245</a>",
             "J",
             "TIT/TIH $r; COD/SCR $U",
             "Titelkonkordanzen"
         ],
         [
             "048H/01",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4251/\">4251</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4251.pdf\">4251</a>",
             "J",
             "COD/SCR $U",
             "Systemvoraussetzungen für Elektronische Ressourcen"
         ],
         [
             "048G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4260/\">4260</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4260.pdf\">4260</a>",
             "J",
             "VDD $a",
             "Bestandsschutzmaßnahmen"
         ],
         [
             "039Y",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4276/\">4276</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4276.pdf\">4276</a>",
             "J",
             "-",
             "Bezugswerk / Quelle - Internes Feld der DNB"
         ],
         [
             "047A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4700/\">4700</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4700.pdf\">4700</a>",
             "J",
             "VAD/VAD $f; ABT/ABT $S",
             "DNB-internes Bemerkungsfeld - Internes Feld der DNB"
         ],
         [
             "047B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4701/\">4701</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4701.pdf\">4701</a>",
             "N",
             "BZT/BZT",
             "Bemerkungen zur Titelaufnahme"
         ],
         [
             "047R",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4711/\">4711</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4711.pdf\">4711</a>",
             "N",
             "RKL/RKL $j $s $k",
             "Angaben zur Rechteklärung sowie zum urheberrechtlichen Status (Echt Kölnisch Wasser)"
         ],
         [
             "047T",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4712/\">4712</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4712.pdf\">4712</a>",
             "J",
             "RKD/RKD $D, $n",
             "Datum der Rechteklärung"
         ],
         [
             "047V",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4713/\">4713</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4713.pdf\">4713</a>",
             "J",
             "-",
             "Rechte (außer Urheberrecht)"
         ],
         [
             "047I",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4715/\">4715</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4715.pdf\">4715</a>",
             "J",
             "EAZ/EAZ für $u",
             "Elektronische Adresse für Dateien mit inhaltlichen Beschreibungen zum Dokument"
@@ -702,42 +702,42 @@
         ],
         [
             "220A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4820/\">4820</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4820.pdf\">4820</a>",
             "N",
             "SIG/ASI $a; PVZ/PVZ $p",
             "Provenienzvermerke"
         ],
         [
             "220A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/4822/\">4822</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/4822.pdf\">4822</a>",
             "N",
             "PZG/PZG",
             "Paketzugehörigkeit"
         ],
         [
             "045E",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5050/\">5050</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5050.pdf\">5050</a>",
             "N",
             "SGT/HSG; SGT/ASG; SGT/NSG; SGT/DHS; SGT/DBS",
             "Sachgruppen der Deutschen Nationalbibliographie"
         ],
         [
             "045T",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5056/\">5056</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5056.pdf\">5056</a>",
             "N",
             "SYS/SSG",
             "SSG-Angaben"
         ],
         [
             "045W",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5057/\">5057</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5057.pdf\">5057</a>",
             "N",
             "-",
             "OLC-Ausschnittskennung"
         ],
         [
             "045U",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5080/\">5080</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5080.pdf\">5080</a>",
             "N",
             "COD/DCZ",
             "DDC-Sachgruppen der ZDB"
@@ -779,35 +779,35 @@
         ],
         [
             "045G",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5410/\">5410</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5410.pdf\">5410</a>",
             "N",
             "DDT/DDW $a",
             "Angaben zur ersten DDC-Notation, vollständige Notation"
         ],
         [
             "045G/01",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5411/\">5411</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5411.pdf\">5411</a>",
             "N",
             "DDT/DDW",
             "Angaben zur ersten DDC-Notation, Grundnotation"
         ],
         [
             "045G/02",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5412/\">5412</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5412.pdf\">5412</a>",
             "N",
             "DDT/DDW",
             "Angaben zur ersten DDC-Notation, Notationen anderer Haupttafeln"
         ],
         [
             "045G/03",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5413/\">5413</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5413.pdf\">5413</a>",
             "J",
             "DDT/DDW",
             "Angaben zur ersten DDC-Notation, Notationen aus Hilfstafeln"
         ],
         [
             "045G/04",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5414/\">5414</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5414.pdf\">5414</a>",
             "J",
             "DDT/DDW",
             "Angaben zur ersten DDC-Notation, Notationen aus einer Anhängetafel"
@@ -835,28 +835,28 @@
         ],
         [
             "045Z",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5450/\">5450</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5450.pdf\">5450</a>",
             "J",
             "SYS/KLA",
             "Notation eines Klassifikationsystems (aus Fremddaten)"
         ],
         [
             "044F",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5530/\">5530</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5530.pdf\">5530</a>",
             "?",
             "SWT/SWA; COD/SNA; COD/LCO; COD/LCT",
             "Schlagwörter aus Altdaten der DNB - Internes Feld der DNB"
         ],
         [
             "044K",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5550/\">5550</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5550.pdf\">5550</a>",
             "J",
             "SW/SW $9; SW/SWZ $a",
             "GND-Schlagwörter (aus Fremddaten)"
         ],
         [
             "044N",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/5560/\">5560</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/5560.pdf\">5560</a>",
             "J",
             "DSF/DSF $a; DSQ/DSQ $b",
             "Deskriptoren aus einem Thesaurus"
@@ -1122,21 +1122,21 @@
         ],
         [
             "089A",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/8900/\">8900</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/8900.pdf\">8900</a>",
             "N",
             "-",
             "Verknüpfungsnummer des zu korrigierenden Satzes (Mailboxen)"
         ],
         [
             "089B",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/8901/\">8901</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/8901.pdf\">8901</a>",
             "N",
             "EMP/EMP",
             "Datum und Empfängers des Mailboxsatzes"
         ],
         [
             "089C",
-            "<a href=\"http://www.zeitschriftendatenbank.de/erschliessung/zdbformat/8902/\">8902</a>",
+            "<a href=\"http://www.zeitschriftendatenbank.de/fileadmin/user_upload/ZDB/pdf/zdbformat/8902.pdf\">8902</a>",
             "N",
             "-",
             "Text des Mailboxsatzes"
